@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace SpeedCodingClasses
 {
-    class Program
+    class Truck : Vehicle
     {
-        static void Main(string[] args)
-        {
-
-        }
+        //concrete class is just a class
+        //classes inherit from other classes with a colon as shown above #win
     }
 }
