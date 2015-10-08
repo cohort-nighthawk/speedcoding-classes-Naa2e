@@ -1,0 +1,2 @@
+c:\users\naa2e\documents\visual studio 2015\Projects\SpeedCodingClasses\SpeedCodingClasses\bin\Debug\SpeedCodingClasses.exe.config
+C:\Users\Naa2e\Documents\GitHub\speedcoding-classes-Naa2e\SpeedCodingClasses\SpeedCodingClasses\bin\Debug\SpeedCodingClasses.exe.config
